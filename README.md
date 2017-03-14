@@ -1,0 +1,2 @@
+# furid
+Plaxo for Furries
